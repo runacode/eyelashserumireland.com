@@ -1,8 +1,9 @@
 {
 "country_1": "IR",
   "country_2": "Ireland",
-  "currency": "A$",
+  "currency": "&#8364;",
   "FaceBookCurrency": "EUR",
+ "lang": "en",
   "upsell1ID": 97,
   "upsell2ID": 96,
   "upsell3ID": 98,
@@ -27,7 +28,7 @@
       "buy_2_get_1": "Buy 2 and get 1 for free",
       "satisfaction_guaranteed": "Satisfaction<br>Guaranteed",
       "add_to_cart": "Add to Cart",
-      "support_email": "support@ eyelashserumireland.com",
+      "support_email": "support@eyelashserumireland.com",
       "rand_head": "60% Off - Ireland Only",
       "logos": "../resources/images/logos.jpg",
       "head": "60% Off - Ireland Only"
