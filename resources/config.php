@@ -4,9 +4,9 @@ KformConfig::setConfig(array(
     "isWordpress" => false,
     "apiLoginId" => "os_api",
     "apiPassword" => 'p@$$w0rd123123',
- "authString"=>"39871422501d77894e0069d6646e810f",
-	"autoUpdate_allowedIps"=>array("80.248.30.133"),
-	"campaignId"=>4,
+"authString"=>"98742496d0ef4f6958e67bef06d7b766",
+	"autoUpdate_allowedIps"=>array("80.248.30.132"),
+	"campaignId"=>22,
 	"resourceDir"=>"resources/"));
 
 
@@ -255,11 +255,11 @@ KFormConfig::$campaignData = '{
     "webPages": {
         "catalogPage": {
             "disableBack": 0,
-            "url": "https:\/\/www.bettermentrevisio.com\/"
+            "url": "https:\/\/www.eyelashserumireland.com\/"
         },
         "checkoutPage": {
             "disableBack": 0,
-            "url": "https:\/\/www.bettermentrevisio.com\/checkout.php",
+            "url": "https:\/\/www.eyelashserumireland.com\/checkout.php",
             "autoImportLead": 1,
             "productId": null,
             "requireSig": 0,
@@ -269,33 +269,33 @@ KFormConfig::$campaignData = '{
         },
         "thankyouPage": {
             "disableBack": 0,
-            "url": "https:\/\/www.bettermentrevisio.com\/thankyou.php",
+            "url": "https:\/\/www.eyelashserumireland.com\/thankyou.php",
             "createAccountDialog": 0,
             "reorderUrl": null,
             "allowReorder": 0
         },
         "upsellPage1": {
             "disableBack": 1,
-            "url": "https:\/\/www.bettermentrevisio.com\/upsell1.php",
+            "url": "https:\/\/www.eyelashserumireland.com\/upsell1.php",
             "createAccountDialog": 0,
             "requirePayInfo": 0,
-            "productId": 6,
+            "productId": 97,
             "replaceProductId": null
         },
         "upsellPage2": {
             "disableBack": 1,
-            "url": "https:\/\/www.bettermentrevisio.com\/upsell2.php",
+            "url": "https:\/\/www.eyelashserumireland.com\/upsell2.php",
             "createAccountDialog": 0,
             "requirePayInfo": 0,
-            "productId": 7,
+            "productId": 96,
             "replaceProductId": null
         },
         "upsellPage3": {
             "disableBack": 1,
-            "url": "https:\/\/www.bettermentrevisio.com\/upsell3.php",
+            "url": "https:\/\/www.eyelashserumireland.com\/upsell3.php",
             "createAccountDialog": 0,
             "requirePayInfo": 0,
-            "productId": 8,
+            "productId": 98,
             "replaceProductId": null
         },
         "productDetails": {
@@ -303,27 +303,27 @@ KFormConfig::$campaignData = '{
         }
     },
     "landerType": "CART",
-    "googleTrackingId": "",
+    "googleTrackingId": "UA-156425769-3",
     "enableFraudPlugin": 0,
     "autoTax": 0,
     "taxServiceId": null,
     "companyName": "optin_solutions_llc",
     "offers": {
-        "4": {
-            "productId": 4,
+        "94": {
+            "productId": 94,
             "name": "Feg Serum - Eyelash Enhancer",
             "description": "*No description available",
-            "imagePath": "https:\/\/images.konnektive.com\/optin_solutions_llc\/product2.jpeg",
+            "imagePath": "https:\/\/www.eyelashserumireland.com\/resources\/images\/smain-small.jpg",
             "imageId": 1,
             "price": "11.97",
             "shipPrice": "0.00",
             "category": "FEG"
         },
-        "5": {
-            "productId": 5,
+        "95": {
+            "productId": 95,
             "name": "Feg Serum - Eyelash Enhancer - Free",
             "description": "*No description available",
-            "imagePath": "https:\/\/images.konnektive.com\/optin_solutions_llc\/product2.jpeg",
+            "imagePath": "https:\/\/www.eyelashserumireland.com\/resources\/images\/smain-small.jpg",
             "imageId": 1,
             "price": "0.00",
             "shipPrice": "0.00",
@@ -331,31 +331,31 @@ KFormConfig::$campaignData = '{
         }
     },
     "upsells": {
-        "7": {
-            "productId": 7,
+        "96": {
+            "productId": 96,
             "name": "Feg Serum - Eyelash Enhancer - Free Gift",
             "description": "*No description available",
-            "imagePath": "https:\/\/images.konnektive.com\/optin_solutions_llc\/product2.jpeg",
+            "imagePath": "https:\/\/www.eyelashserumireland.com\/resources\/images\/upsell1.jpg",
             "imageId": 1,
             "price": "4.95",
             "shipPrice": "0.00",
             "category": "FEG"
         },
-        "6": {
-            "productId": 6,
-            "name": "FEG - EyeBrown (2pcs - 2 months of treatment)",
+        "97": {
+            "productId": 97,
+            "name": "FEG - EyeBrow (2pcs - 2 months of treatment)",
             "description": "*No description available",
-            "imagePath": "https:\/\/images.konnektive.com\/optin_solutions_llc\/product3.jpeg",
+            "imagePath": "https:\/\/www.eyelashserumireland.com\/resources\/images\/upsell2.jpg",
             "imageId": 2,
             "price": "9.95",
             "shipPrice": "0.00",
             "category": "FEG"
         },
-        "8": {
-            "productId": 8,
+        "98": {
+            "productId": 98,
             "name": "Silicone Make-Up Sponge",
             "description": "*No description available",
-            "imagePath": "https:\/\/images.konnektive.com\/optin_solutions_llc\/product4.jpeg",
+            "imagePath": "https:\/\/www.eyelashserumireland.com\/resources\/images\/upsell3.jpg",
             "imageId": 3,
             "price": "4.95",
             "shipPrice": "0.00",
